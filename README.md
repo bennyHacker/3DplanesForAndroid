@@ -1,0 +1,31 @@
+# 3D Planes For Android
+Player vs 3 point planes for android
+
+Thanks for checking out my sketch! 
+
+This program runs very similar to my older version for desktop.
+
+Here are the instructions:
+
+- move player by tapping and holding left side of screen (a joystick icon will appear)
+- pivot camera by tapping and holding right side of screen
+- open keyboard by tapping the keyboard icon (keyboard closes normally by pressing 'back' on your device)
+- jump by tapping the person leaping icon
+- create a shape by tapping the box or "build" icon
+
+
+
+In the older version you just had to tap a number to generate a shape
+
+In this version it's a little more complicated
+
+Under normal conditions, the build tool won't actually do anything.
+In order to get it to work, you must have a number input in the keyboard
+
+here are the possible inputs:
+
+- 4 : generate bridge flush with feet
+- 5 : generate a higher bridge
+- 6 : generate a big box
+- 7 : generate a big ramp
+- 8 : generate a rotating bridge (broken as of version 1.0)
