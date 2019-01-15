@@ -22,7 +22,7 @@ In this version it's a little more complicated
 Under normal conditions, the build tool won't actually do anything.
 In order to get it to work, you must have a number input in the keyboard
 
-Pressing "go" on the keyboard will reset your input and cause it to not work
+Pressing "go" or "send" on the keyboard will reset your input and cause it to not work
 
 here are the possible inputs:
 
