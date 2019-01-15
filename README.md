@@ -12,7 +12,7 @@ Here are the instructions:
 - open keyboard by tapping the keyboard icon (keyboard closes normally by pressing 'back' on your device)
 - jump by tapping the person leaping icon
 - create a shape by tapping the box or "build" icon
-
+- screen works best when tilted on its side!
 
 
 In the older version you just had to tap a number to generate a shape
