@@ -11,6 +11,7 @@ Here are the instructions:
 - pivot camera by tapping and holding right side of screen
 - open keyboard by tapping the keyboard icon (keyboard closes normally by pressing 'back' on your device)
 - jump by tapping the person leaping icon
+- New! switch firstPerson/thirdPerson by pressing the camera icon
 - create a shape by tapping the box or "build" icon
 - screen works best when tilted on its side!
 
