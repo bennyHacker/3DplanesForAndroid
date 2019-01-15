@@ -15,7 +15,7 @@ Here are the instructions:
 - screen works best when tilted on its side!
 
 
-In the older version you just had to tap a number to generate a shape
+In the older version you just had to tap a number on the keyboard to generate a shape
 
 In this version it's a little more complicated
 
