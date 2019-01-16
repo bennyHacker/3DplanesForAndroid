@@ -12,6 +12,7 @@ Here are the instructions:
 - open keyboard by tapping the keyboard icon (keyboard closes normally by pressing 'back' on your device)
 - jump by tapping the person leaping icon
 - New! switch firstPerson/thirdPerson by pressing the camera icon
+- New! grab ball by tapping interact button (appears when cursor hovering ball)
 - create a shape by tapping the box or "build" icon
 - screen works best when tilted on its side!
 
