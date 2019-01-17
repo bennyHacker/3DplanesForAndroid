@@ -33,6 +33,8 @@ here are the possible inputs:
 - 6 : generate a big box
 - 7 : generate a big ramp
 - 8 : generate a rotating bridge (broken as of version 1.0)
-- 9 : New! generate a ball
+- 9 : generate a ball
+- 0 : New! generate a cylinder
+- p : New! generate an AABB (axis aligned bounding box)
 
 If you see clipping, that is due to a bug with the camera and not the player collision
