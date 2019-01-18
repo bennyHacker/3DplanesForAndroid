@@ -14,6 +14,7 @@ Here are the instructions:
 - switch firstPerson/thirdPerson by pressing the camera icon
 - grab ball by tapping interact button (appears when cursor hovering ball) (first person only)
 - create a shape by tapping the box or "build" icon
+- New! shoot AIs by hovering over them with gun
 - screen works best when tilted on its side!
 
 
@@ -34,7 +35,9 @@ here are the possible inputs:
 - 7 : generate a big ramp
 - 8 : generate a rotating bridge (broken as of version 1.0)
 - 9 : generate a ball
-- 0 : New! generate a cylinder
-- p : New! generate an AABB (axis aligned bounding box)
+- 0 : generate a cylinder
+- p : generate an AABB (axis aligned bounding box)
+- o : New! generate an AI
+- i : New! give yourself a gun (first person only)
 
 If you see clipping, that is due to a bug with the camera and not the player collision
