@@ -37,7 +37,8 @@ here are the possible inputs:
 - 9 : generate a ball
 - 0 : generate a cylinder
 - p : generate an AABB (axis aligned bounding box)
-- o : New! generate an AI
-- i : New! give yourself a gun (first person only)
+- o : generate an AI
+- i : give yourself a gun (first person only)
+- u : New! generate a weird worm thing (rope made of bouncy balls)
 
 If you see clipping, that is due to a bug with the camera and not the player collision
